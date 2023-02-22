@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57294b2f417b429bb887d69ac00c08fd, type: 3}
+  m_Name: StaticData
+  m_EditorClassIdentifier: 
+  <PhysicsConfig>k__BackingField:
+    <Gravity>k__BackingField: {x: 0, y: -9.8}
+  <BirdPrefab>k__BackingField: {fileID: 4101496401435600797, guid: b0bf2c7997a1a0b49b7cf39f6dbbe6cc, type: 3}
+  <BirdColliderRadius>k__BackingField: 0.4
+  <BackgroundSpeed>k__BackingField: 0.1
+  <Difficulty>k__BackingField:
+    <PipesMovementSpeed>k__BackingField: 3.95
+    <BirdFallSpeed>k__BackingField: 12
+    <BirdJumpForce>k__BackingField: 60
+    <SoloPipeHeight>k__BackingField: 0.396
+    <SoloPipeWidth>k__BackingField: 0.2
+    <ScorePerPipe>k__BackingField: 1
